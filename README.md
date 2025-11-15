@@ -43,3 +43,4 @@ rlocus(sys);
 
 
 Thus the root locus for the given transfer function was drawn and verified using MATLAB. The conditions for stability is k<741
+
